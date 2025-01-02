@@ -1,0 +1,13 @@
+{
+    "name": "WebHalo Organization Example Workflow",
+    "description": "WebHalo Organization CI example workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
